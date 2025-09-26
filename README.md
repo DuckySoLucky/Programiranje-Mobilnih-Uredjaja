@@ -1,1 +1,1 @@
-# 3-TR2-Programiranje-Mobilnih-Uredjaja
+# Programiranje-Mobilnih-Uredjaja
